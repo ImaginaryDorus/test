@@ -1,1 +1,50 @@
-# test
+# YouTube Helper
+A YouTube Helper application allows users to search videos from YouTube and add them to favorite video list.
+## Installation
+All dependencies locate in `pyproject.toml`, so you can use [poetry](https://github.com/python-poetry/poetry)
+1. You need to download all files from this repository
+`git clone https://github.com/HolyDorus/youtube_helper`
+
+2. Use this command to install all dependencies
+```
+cd youtube_helper
+poetry install
+```
+
+3. You need to create file `.env`  with filled values (see `.env.example`) or manually add values in your enviroment variables
+
+4. Next, you need to make migrations and migrate
+```
+cd YouTubeHelper
+poetry run python manage.py makemigrations
+poetry run python manage.py migrate
+```
+
+5. Use this command to create a super user
+`poetry run python manage.py createsuperuser`
+
+6. Next, run application
+`poetry run python manage.py runserver`
+
+7. Visit [localhost:8000](http://localhost:8000) (by default)
+
+## Screenshots
+The site also has a mobile version.
+
+**Index page:**
+![Index page](https://drive.google.com/uc?export=view&id=1quVnMq1FUoQmHNBpiKCoOTDrFnAwS6Fw "Index page")
+
+**Search page:**
+![Search page](https://drive.google.com/uc?export=view&id=1zCVTMw2psx27Qx67-yV_jqklMebPJKw9 "Search page")
+
+**Video page:**
+![Video page](https://drive.google.com/uc?export=view&id=1PPhYzhq_Hrgx3sp6uKWqTxON9zDutzt- "Video page")
+
+**Liked videos page:**
+![Liked videos page](https://drive.google.com/uc?export=view&id=1iKObMKXldU9ieU_Ma2Cqc_HyPUzPHQ06 "Liked videos page")
+
+**Register page:**
+![Register page](https://drive.google.com/uc?export=view&id=1We1Co8L5ILtXCplz98bdqbLDZ6yVtueA "Register page")
+
+**Login page:**
+![Login page](https://drive.google.com/uc?export=view&id=1W26cew1BKRHludw2mQ_UUIuorcfrLPKk "Login page")
