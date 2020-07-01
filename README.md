@@ -32,19 +32,19 @@ poetry run python manage.py migrate
 The site also has a mobile version.
 
 **Index page:**
-![Index page](https://drive.google.com/uc?export=view&id=1quVnMq1FUoQmHNBpiKCoOTDrFnAwS6Fw "Index page")
+![Index page](https://github.com/ImaginaryDorus/test/raw/master/index_page.png "Index page")
 
 **Search page:**
-![Search page](https://drive.google.com/uc?export=view&id=1zCVTMw2psx27Qx67-yV_jqklMebPJKw9 "Search page")
+![Search page](https://github.com/ImaginaryDorus/test/raw/master/search_page.png "Search page")
 
 **Video page:**
-![Video page](https://drive.google.com/uc?export=view&id=1PPhYzhq_Hrgx3sp6uKWqTxON9zDutzt- "Video page")
+![Video page](https://github.com/ImaginaryDorus/test/raw/master/video_page.png "Video page")
 
 **Liked videos page:**
-![Liked videos page](https://drive.google.com/uc?export=view&id=1iKObMKXldU9ieU_Ma2Cqc_HyPUzPHQ06 "Liked videos page")
+![Liked videos page](https://github.com/ImaginaryDorus/test/raw/master/liked_videos_page.png "Liked videos page")
 
 **Register page:**
-![Register page](https://drive.google.com/uc?export=view&id=1We1Co8L5ILtXCplz98bdqbLDZ6yVtueA "Register page")
+![Register page](https://github.com/ImaginaryDorus/test/raw/master/register_page.png "Register page")
 
 **Login page:**
-![Login page](https://drive.google.com/uc?export=view&id=1W26cew1BKRHludw2mQ_UUIuorcfrLPKk "Login page")
+![Login page](https://github.com/ImaginaryDorus/test/raw/master/login_page.png "Login page")
